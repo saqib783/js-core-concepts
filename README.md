@@ -108,10 +108,10 @@ This project is licensed under the MIT License.
 
 ## 🔹 Screenshots
 
-![Closure Example](js-core-concepts/images/Screenshot%20(880).png)
-![HOF Styling Example](js-core-concepts/images/Screenshot%20(881).png)
-![Callback Example](js-core-concepts/images/Screenshot%20(883).png)
-![IIFE Example](js-core-concepts/images/Screenshot%20(884).png)
+![Closure Example](js-core-concepts\images\Screenshot-880.png)
+![HOF Styling Example](js-core-concepts\images\Screenshot-881.png)
+![Callback Example](js-core-concepts\images\Screenshot-883.png)
+![IIFE Example](js-core-concepts\images\Screenshot-884.png)
 
 ---
 
