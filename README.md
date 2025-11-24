@@ -108,7 +108,7 @@ This project is licensed under the MIT License.
 
 ## 🔹 Screenshots
 
-![Closure Example](images/Screenshot-880.pngScreenshot-880.png)
+![Closure Example](images/Screenshot-880.png)
 ![HOF Styling Example](images/Screenshot-881.png)
 ![Callback Example](images/Screenshot-883.png)
 ![IIFE Example](images/Screenshot-884.png)
